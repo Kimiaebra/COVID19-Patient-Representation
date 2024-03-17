@@ -3,13 +3,19 @@ Modeling patient variability in scRNA-seq data
 
 # Team: 
   Kimia Ebrahimi (ge28dey@mytum.de)
+  
   Farhad M. Dehkordi
+  
   Sandra Rjeschn
+  
   Almut Voigts
 
 # Supervisor:
+  
   Vladimir Shitov
+ 
   Till Richter
+  
   Malte Lücken
 
 # Project Outline
