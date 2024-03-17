@@ -21,3 +21,5 @@ We used single-cell RNA sequencing datasets from large cohorts of COVID-19 patie
 6. Yi, H. & Stanley, N. scLKME: A Landmark-based Approach for Generating Multi-cellular Sample Embeddings from Single-cell Data. 2023.11.13.566846 Preprint at https://doi.org/10.1101/2023.11.13.566846 (2023).
 7. Stephenson, E., Reynolds, G., Botting, R.A. et al. Single-cell multi-omics analysis of the immune response in COVID-19. Nat Med 27, 904–916 (2021). https://doi.org/10.1038/s41591-021-01329-2 
 8. Ahern, D. J. et al. A blood atlas of COVID-19 defines hallmarks of disease severity and specificity. Cell 185, 916-938.e58 (2022).
+9. Chen, T., Kornblith, S., Norouzi, M. & Hinton, G. A Simple Framework for Contrastive Learning of Visual Representations. Preprint at https://doi.org/10.48550/arXiv.2002.05709 (2020).
+10. Grill, J.-B. et al. Bootstrap your own latent: A new approach to self-supervised Learning. Preprint at https://doi.org/10.48550/arXiv.2006.07733 (2020).
